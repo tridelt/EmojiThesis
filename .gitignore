@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+data/
+gensim_SGNS/
+pytorch_softmax/
